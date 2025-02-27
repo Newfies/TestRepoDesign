@@ -1,2 +1,8 @@
+> [!TIP]
+> TIP HERE
+
+> [!CAUTION]
+> CAUTION MESSAGE
+
 > [!NOTE]
-> Apple
+> NOTE HERE
